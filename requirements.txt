@@ -1,0 +1,2 @@
+python-dotenv==0.20.0
+urlbox==1.0.6
